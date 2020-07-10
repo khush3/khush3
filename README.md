@@ -5,4 +5,3 @@ I am broadly interested in developing robots that can learn to perform a task fr
 
 To know more about me, drop by [my website](https://khush3.github.io/). 
 If you are interested in knowing more about my projects / working with my, shoot me an [email](mailto:agrawalkhush2000@gmail.com). 
--->
